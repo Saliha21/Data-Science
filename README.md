@@ -1,2 +1,2 @@
 # Engitrum-club
-Six months of Data Science for Engitrum club 
+One month of Data Science for Masar_2030
